@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-northern-magical-realism-nature-civilization",
+  "title": "The Verdict of the Eider",
+  "tagline": "A cartographer's daughter, saved by a sentient river, must navigate the contested border between a city's rigid order and the ancient, knowing wild.",
+  "target_words": 73155,
+  "actual_words": 73155,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Consciousness of Nature",
+    "Cartography and the Limits of Human Knowledge",
+    "Memory and the Senses as Truth",
+    "The Tension Between Sacred and Profane"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Taste of the River",
+      "words": 6650
+    },
+    {
+      "ch": 2,
+      "title": "The Amber Covenant",
+      "words": 6650
+    },
+    {
+      "ch": 3,
+      "title": "An Altar of Thief's Water",
+      "words": 6650
+    },
+    {
+      "ch": 4,
+      "title": "The Foxed Paper Silence",
+      "words": 6650
+    },
+    {
+      "ch": 5,
+      "title": "The City's Metallic Grit",
+      "words": 6650
+    },
+    {
+      "ch": 6,
+      "title": "Where the Grey Line Frays",
+      "words": 6650
+    },
+    {
+      "ch": 7,
+      "title": "A Shore of Held Breath",
+      "words": 6650
+    },
+    {
+      "ch": 8,
+      "title": "The Verdict of the Mirror",
+      "words": 6650
+    },
+    {
+      "ch": 9,
+      "title": "The Breath of Deep Stone",
+      "words": 6650
+    },
+    {
+      "ch": 10,
+      "title": "Through Fading Ink",
+      "words": 6650
+    },
+    {
+      "ch": 11,
+      "title": "The Mountain's Unblinking Eye",
+      "words": 6650
+    }
+  ]
+}
